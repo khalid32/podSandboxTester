@@ -1,6 +1,6 @@
 {
   "@context": "https://www.w3.org/ns/solid/oidc-context.jsonld",
-  "client_id": "https://your-org.github.io/pad_sandbox_test/client-profile.jsonld",
+  "client_id": "https://khalid32.github.io/podSandboxTester/client-profile.jsonld",
   "client_name": "PadSandboxTest",
   "application_type": "native",
   "redirect_uris": [
